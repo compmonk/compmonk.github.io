@@ -1,0 +1,25 @@
+img.nav-icon {
+    height: 30px !important;
+    width: 30px !important;
+    border-radius: 50% !important;
+}
+
+img.dash-icon-1 {
+    height: 30px !important;
+    width: 30px !important;
+}
+
+img.dash-icon-2 {
+    height: 50px !important;
+    width: 50px !important;
+}
+
+img.dash-icon-3 {
+    height: 100px !important;
+    width: 100px !important;
+}
+
+img.dash-icon-4 {
+    height: 70px !important;
+    /*width: 100px !important;*/
+}
