@@ -1,3 +1,17 @@
+body {
+    font-family: "Montserrat Semi Bold", sans-serif !important;
+}
+
+#banner {
+    background-image: linear-gradient(to right, #F05A28, #EC008C, #F05A28);
+    color: white;
+    font-family: "Montserrat Semi Bold", sans-serif;
+}
+
+.navbar {
+    font-family: "Montserrat Bold", sans-serif;
+}
+
 img.nav-icon {
     height: 30px !important;
     width: 30px !important;
