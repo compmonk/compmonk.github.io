@@ -6,6 +6,7 @@ body {
     background-image: linear-gradient(to right, #F05A28, #EC008C, #F05A28);
     color: white;
     font-family: "Montserrat Semi Bold", sans-serif;
+    border-radius: 0;
 }
 
 .navbar {
